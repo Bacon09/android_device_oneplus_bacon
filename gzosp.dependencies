@@ -1,6 +1,6 @@
 [
   {
-    "repository": "Bacon09/device_oneplus_bacon",
+    "repository": "Bacon09/android_device_oneplus_bacon",
     "target_path": "device/oneplus/bacon",
     "branch": "9.0"
   },
